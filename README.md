@@ -1,5 +1,6 @@
 # TIC-TAC-TOE
 > A simple TicTacToe game for two players build in vanilla JavaScript, along with HTML5 and CSS3.
+https://kvviecien.github.io/OXGame/
 
 ## Table of contents
 * [General info](#general-info)
